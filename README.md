@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 I'm Bektur from Kyrgyzstan. I'm Front-end Developer. I really enjoy programming and get new knowledge. I am using React.js to build SPA.
 
