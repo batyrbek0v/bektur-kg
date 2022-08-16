@@ -1,7 +1,6 @@
 ### Hello world 👋, my name is Bektur
 I'm Bektur from Kyrgyzstan. I'm Front-end Developer. I really enjoy programming and get new knowledge. I am using React.js to build SPA.
 
-Skills: REACT / Redux-Toolkit / JS / TS / HTML / CSS / SCSS / axios / REST Api / React-hooks
 
 - 🔭 I’m currently working on finding a job 
 - 🌱 I’m currently learning TypeScript and Redux-Toolkit 
